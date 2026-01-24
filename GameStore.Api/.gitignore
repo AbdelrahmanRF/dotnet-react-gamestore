@@ -1,0 +1,31 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code files
+.vscode/
+
+# Rider files
+.idea/
+
+# Ignore NuGet packages
+*.nupkg
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore application settings
+appsettings.Development.json
+appsettings.json
