@@ -30,3 +30,14 @@
 # Ignore application settings
 appsettings.Development.json
 appsettings.json
+
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+*.sdf
+*.db-journal
+*.db-wal
+*.db-shm
